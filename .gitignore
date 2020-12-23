@@ -3,6 +3,7 @@ note
 note.txt
 .vim
 Session.vim
+test.py
 
 # Django #
 *.log
