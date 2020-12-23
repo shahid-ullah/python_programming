@@ -1,0 +1,9 @@
+modules:
+import time
+from functools import wraps
+
+
+# Rough
+staticmethod
+classmethod
+property
